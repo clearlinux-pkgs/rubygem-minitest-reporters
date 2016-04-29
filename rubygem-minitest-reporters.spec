@@ -4,7 +4,7 @@
 #
 Name     : rubygem-minitest-reporters
 Version  : 1.1.8
-Release  : 6
+Release  : 7
 URL      : https://rubygems.org/downloads/minitest-reporters-1.1.8.gem
 Source0  : https://rubygems.org/downloads/minitest-reporters-1.1.8.gem
 Summary  : No detailed summary available
